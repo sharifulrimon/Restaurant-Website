@@ -1,0 +1,24 @@
+nav ul li{
+    margin: 0 1rem;
+    padding: 0.5rem 0.8rem;
+   
+   background-color: #ffffff;
+    border: 1px solid transparent;
+    transition: all 0.3s ease;
+    
+}
+
+nav ul li a{
+    text-decoration: none !important;
+    font-size: 20px;
+    color: #1d2225;
+					padding: 0.5rem;
+					text-decoration: none;
+					
+}
+
+
+
+.navbar{
+    box-shadow: 0 1px 3px rgb(0 0 0 / 12%);
+}
